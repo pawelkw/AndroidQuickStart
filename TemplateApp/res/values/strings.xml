@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Template App</string>
+    <string name="about">About</string>
+    <string name="contact_me">Contact Me</string>
+    <string name="send_email_using_">Send email using…</string>
+
+    <string name="dev_email">pawel@kwiecinski.me</string>
+    <string name="dev_created_by_author">Created by Paweł Kwieciński</string>
+
+</resources>

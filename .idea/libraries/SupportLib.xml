@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SupportLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SharedLibs/android-support-v13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
