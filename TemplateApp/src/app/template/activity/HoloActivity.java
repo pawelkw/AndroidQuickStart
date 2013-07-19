@@ -11,7 +11,7 @@ import org.holoeverywhere.app.Activity;
 import app.template.R;
 import app.template.dialog.AboutDialog;
 
-public class HoloActivity extends Activity {
+public class HoloActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
