@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="ReleaseSignedWithTestKey">
+    <output-path>$PROJECT_DIR$/out/artifacts/ReleaseSignedWithTestKey</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="includeSystemProGuardCfgFile" value="true" />
+        <option name="keyAlias" value="testing" />
+        <option name="keyPassword" value="dGVzdGluZw==&#13;&#10;" />
+        <option name="keyStorePassword" value="dGVzdGluZw==&#13;&#10;" />
+        <option name="keyStoreUrl" value="file://$PROJECT_DIR$/testing.keystore" />
+        <option name="proGuardCfgFileUrl" value="file://$PROJECT_DIR$/TemplateApp/proguard.cfg" />
+        <option name="runProGuard" value="true" />
+        <option name="signingMode" value="RELEASE_SIGNED" />
+      </options>
+    </properties>
+    <root id="archive" name="ReleaseSignedWithTestKey.apk">
+      <element id="android-final-package" facet="TemplateApp/android/Android" />
+    </root>
+  </artifact>
+</component>
