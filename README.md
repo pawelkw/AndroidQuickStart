@@ -9,6 +9,12 @@ __AndroidQuickStart__ is a template application equipped with libraries essentia
 * Fully configured Android Studio project
 * Proguard config
 
+#Library branches (lib_xyz)
+The git repository contains special lib_xyz branches which contain additional libraries that you can use. In order to use them all you need to do is merge the desired library branch with the master branch. For example:
+
+        git merge lib_ormlite
+Bam! You now have a fully configured ORM mapper in your project! It's just that simple and clean. Don't worry about conflicts. The repository is designed in such way that you should not get any, unless you've modified the core files.
+
 #FAQ
 __1. I've build the ReleaseUnsigned artifact but i can't install the ouput APK on my device. I get the ``INSTALL_PARSE_FAILED_NO_CERTIFICATES`` error.__
 
