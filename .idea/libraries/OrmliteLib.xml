@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="OrmliteLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SharedLibs/ormlite-android-4.45.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SharedLibs/ormlite-core-4.45.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/SharedLibs/javadoc/ormlite-android-4.45-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SharedLibs/javadoc/ormlite-core-4.45-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/SharedLibs/source/ormlite-android-4.45-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SharedLibs/source/ormlite-core-4.45-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

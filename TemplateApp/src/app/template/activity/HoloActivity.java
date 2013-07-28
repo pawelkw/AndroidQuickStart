@@ -1,15 +1,21 @@
 package app.template.activity;
 
 import android.os.Bundle;
+import android.util.Log;
 
 import com.actionbarsherlock.view.Menu;
 import com.actionbarsherlock.view.MenuInflater;
 import com.actionbarsherlock.view.MenuItem;
+import com.j256.ormlite.dao.RuntimeExceptionDao;
 
 import org.holoeverywhere.app.Activity;
 
+import java.util.List;
+import java.util.Random;
+
 import app.template.R;
 import app.template.dialog.AboutDialog;
+import app.template.model.TemplateModel;
 
 public class HoloActivity extends BaseActivity {
 
