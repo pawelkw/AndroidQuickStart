@@ -2,7 +2,10 @@
 <module type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="android" name="Android">
-      <configuration />
+      <configuration>
+        <option name="LIBRARY_PROJECT" value="true" />
+        <option name="UPDATE_PROPERTY_FILES" value="true" />
+      </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
@@ -13,9 +16,8 @@
     </content>
     <orderEntry type="jdk" jdkName="Android 4.2.2" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="HoloEverywhere" />
-    <orderEntry type="module" module-name="HoloEverywhere-Preferences" />
     <orderEntry type="module" module-name="ActionBarSherlock" />
+    <orderEntry type="module" module-name="HoloEverywhere" />
     <orderEntry type="library" name="SupportLib" level="project" />
   </component>
   <component name="org.twodividedbyzero.idea.findbugs">

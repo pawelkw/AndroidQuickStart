@@ -6,6 +6,7 @@
       <directory url="file://$PROJECT_DIR$/TemplateApp/gen" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/ActionBarSherlock/gen" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/HoloEverywhere/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/HoloEverywhere-Preferences/gen" includeSubdirectories="true" />
     </excludeFromCompile>
     <resourceExtensions />
     <wildcardResourcePatterns>
