@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="AcraLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SharedLibs/acra-4.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/SharedLibs/javadoc/acra-4.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/SharedLibs/source/acra-4.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

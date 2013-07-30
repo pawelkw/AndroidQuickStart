@@ -17,6 +17,7 @@
     <orderEntry type="module" module-name="HoloEverywhere-Preferences" />
     <orderEntry type="module" module-name="ActionBarSherlock" />
     <orderEntry type="library" name="SupportLib" level="project" />
+    <orderEntry type="library" name="AcraLib" level="project" />
   </component>
   <component name="org.twodividedbyzero.idea.findbugs">
     <option name="_basePreferences">
