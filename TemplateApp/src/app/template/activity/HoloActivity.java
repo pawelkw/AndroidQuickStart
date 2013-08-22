@@ -6,8 +6,6 @@ import com.actionbarsherlock.view.Menu;
 import com.actionbarsherlock.view.MenuInflater;
 import com.actionbarsherlock.view.MenuItem;
 
-import org.holoeverywhere.app.Activity;
-
 import app.template.R;
 import app.template.dialog.AboutDialog;
 

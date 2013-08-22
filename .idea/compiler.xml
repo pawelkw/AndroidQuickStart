@@ -7,6 +7,8 @@
       <directory url="file://$PROJECT_DIR$/ActionBarSherlock/gen" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/HoloEverywhere/gen" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/HoloEverywhere-Preferences/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/BeyondAR_Framework/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/GooglePlayServices/gen" includeSubdirectories="true" />
     </excludeFromCompile>
     <resourceExtensions />
     <wildcardResourcePatterns>
